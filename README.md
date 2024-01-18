@@ -1,9 +1,13 @@
 # chromium-windows
-most release tags are chromium `dev` version builds for windows x64
+chromium `dev` builds for windows x64
 
-- google sync available, using official google api key
+features:
 
-- not a debug release, performance is good
+- google sync available
+
+- official build
+
+---
 
 {version}.7z: portable chromium
 
