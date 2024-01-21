@@ -1,14 +1,17 @@
 # chromium-windows
-chromium `dev` builds for windows x64
+
+chromium `dev` builds for windows on `x64` and `arm64`(sometimes)
 
 features:
 
-- google sync available
+- google sync service available
 
-- official build
+- official build, good performance
+
+- hardware-accelerated video decoding
 
 ---
 
-{version}.7z: portable chromium
+{version}.7z: portable release
 
-{version}.exe: mini installer like chrome's
+{version}.exe: mini installer
