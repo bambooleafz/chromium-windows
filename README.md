@@ -4,9 +4,9 @@ chromium `dev` builds for windows on `x64` and `arm64`(sometimes)
 
 features:
 
-- google sync service available
+- google sync service available (integrated with google api keys)
 
-- official build, good performance
+- official build, rather than `debug` build
 
 - hardware-accelerated video decoding
 
