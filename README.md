@@ -1,6 +1,6 @@
 # chromium-windows
 
-chromium `dev` builds for windows on `x64` and `arm64`(sometimes)
+chromium `dev` builds for windows on `x64` and `arm64`
 
 features:
 
